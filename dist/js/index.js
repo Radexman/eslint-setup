@@ -1,4 +1,5 @@
 const checkPositive = (number) => {
+	var x = 'EEEE';
 	if (number > 0) {
 		return true;
 	}
